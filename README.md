@@ -4,7 +4,7 @@ This is a study project aiming to create a robust and modern web application for
 
 ## Technologies used
 
-The server-side code is written in [Go](https://golang.org). The client side is [Ember.js](http://emberjs.com).
+Server-side code is written in [Go](https://golang.org). Client side is [Ember.js](http://emberjs.com).
 
 ## License
 
